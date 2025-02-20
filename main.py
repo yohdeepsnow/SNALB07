@@ -15,10 +15,15 @@ def pengurangan(a,b):
 	total = a-b
 	return(total)
 
+def modulo(a,b):
+	total = a%b
+	return total
+
 def main():
 	print(perkalian(10,10))	
 	print(penambahan(10,5))
 	print(pengurangan(1,2))
 	print(pembagian(4,2))
+	print(modulo(4,2))
 
 main()
