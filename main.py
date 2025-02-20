@@ -20,5 +20,6 @@ def main():
 	print(penambahan(10,5))
 	print(pengurangan(1,2))
 	print(pembagian(4,2))
+	print(penambahan(perkalian(10,3),pengurangan(20,5)))
 
 main()
