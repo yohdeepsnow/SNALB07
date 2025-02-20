@@ -12,7 +12,7 @@ def pengurangan(a,b):
 	total = a-b
 	return(total)
 
-def permbagian(a,b):
+def pembagian(a,b):
 	total = a/b
 	return(total)
 	
