@@ -1,6 +1,9 @@
 #tolong lengkapi fungsi python berikut untuk membuat kalkulator sederhana
 #buat dengan format yang sama
 
+def pembagian(a,b):
+	return a/b
+	
 def perkalian(a,b):
 	return a*b
 
@@ -16,5 +19,6 @@ def main():
 	print(perkalian(10,10))	
 	print(penambahan(10,5))
 	print(pengurangan(1,2))
+	print(pembagian(4,2))
 
 main()
