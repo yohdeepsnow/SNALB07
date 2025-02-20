@@ -3,7 +3,7 @@
 
 
 def penambahan(a,b):
-	total = a+b
+	total = a-b
 	return(total)
 
 def main():
