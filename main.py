@@ -9,7 +9,7 @@ def penambahan(a,b):
 	return(total)
 
 def main():
-	
+	print(pengurangan(10,10))	
 	print(penambahan(10,5))
 
 main()
